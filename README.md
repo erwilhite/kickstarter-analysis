@@ -9,11 +9,11 @@ This analysis was done to visualize the relationship between the outcomes of the
 
 ### Analysis of Outcomes Based on Launch Date
 The first analysis done was to compare the outcomes based on launch date. This was done by first creating a pivot table and then grouping the data by month to display the success rate for all the years combined by month. 
-![Theater_Outcomes_vs_Launch_Date](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch_Date](/assets/images/Theater_Outcomes_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 The second part of the analysis consisted of binning the data by goal amount and then counting each outcome per bin. The outcomes were then summed to find the total projects and calculate the percentage of each category by goal range. This table was then plotted by displaying the goal on the x-axis and percentage of each outcome on the y-axis.
-![image_name](Resources.zip)
+![Outcomes_vs_Goals](/assets/images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were not many challenges encountered in performing this data analysis. Potential problems that could occur could be not having the right filters set, referencing incorrect cells, or having the format incorrect on numbers. One challenge with respect to the data set was understanding the context of the values and how they relate to each other. Not having the ability to clarify certain parameters made it a little more challenging to make interpretations, as well as assure the integrity of the data. 
