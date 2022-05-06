@@ -9,7 +9,7 @@ This analysis was done to visualize the relationship between the outcomes of the
 
 ### Analysis of Outcomes Based on Launch Date
 The first analysis done was to compare the outcomes based on launch date. This was done by first creating a pivot table and then grouping the data by month to display the success rate for all the years combined by month. 
-![Theater_Outcomes_vs_Launch_Date](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch_Date.png)
+![Theater_Outcomes_vs_Launch_Date](https://github.com/erwilhite/kickstarter-analysis/tree/main/Resources/Theater_Outcomes_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 The second part of the analysis consisted of binning the data by goal amount and then counting each outcome per bin. The outcomes were then summed to find the total projects and calculate the percentage of each category by goal range. This table was then plotted by displaying the goal on the x-axis and percentage of each outcome on the y-axis.
