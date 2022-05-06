@@ -8,7 +8,8 @@ This analysis was done to visualize the relationship between the outcomes of the
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The first analysis done was to compare the outcomes based on launch date. This was done by first creating a pivot table and then grouping the data by month to display the success rate for all the years combined by month. 
+The first analysis done was to compare the outcomes based on launch date. This was done by first creating a pivot table and then grouping the data by month to display the success rate for all the years combined by month. ![Theater_Outcomes_vs_Launch_Date](https://user-images.githubusercontent.com/104689576/167052522-f7d57450-1116-4388-bf0e-b0bf9e9ffeac.png)
+
 ![Theater_Outcomes_vs_Launch_Date](https://github.com/erwilhite/kickstarter-analysis/tree/main/Resources/Theater_Outcomes_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
